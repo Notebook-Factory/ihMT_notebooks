@@ -1,0 +1,3 @@
+[submodule "ihMT_steadystate"]
+	path = ihMT_steadystate
+	url = https://github.com/mriphysics/ihMT_steadystate.git
